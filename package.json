@@ -1,0 +1,11 @@
+{
+  "name": "static-starter-kit",
+  "version": "1.0.0",
+  "description": "Starter project for static sites",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -o"
+  },
+  "author": "Lóth Gábor <lgbster@gmail.com>",
+  "license": "MIT"
+}
